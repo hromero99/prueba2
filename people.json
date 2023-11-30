@@ -1,0 +1,25 @@
+[
+    {
+        "id": 1,
+        "firstname": "Raul",
+        "lastname": "Bode",
+        "email": "hannah.kuvalis@yahoo.com",
+        "phone": "+9021509155904",
+        "birthday": "2021-10-04",
+        "gender": "male",
+        "address": {
+            "id": 0,
+            "street": "2428 Donnelly Square Apt. 820",
+            "streetName": "Benedict Extension",
+            "buildingNumber": "7212",
+            "city": "South Tyrelberg",
+            "zipcode": "39109",
+            "country": "Andorra",
+            "county_code": "CH",
+            "latitude": -76.233596,
+            "longitude": -120.003188
+        },
+        "website": "http://berge.com",
+        "image": "http://placeimg.com/640/480/people"
+    }
+]
